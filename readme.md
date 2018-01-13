@@ -62,7 +62,7 @@ File -> Import -> Maven -> Existing Maven project
 |Properties Files | [application.properties](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/resources) |
 |Caching | [CacheConfig](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/system/CacheConfig.java) |
 
-## Interesting Spring Petclinic branches and forks
+## Interesting Spring Petclinic branches and forks.
 
 The Spring Petclinic master branch in the main
 [spring-projects](https://github.com/spring-projects/spring-petclinic)
